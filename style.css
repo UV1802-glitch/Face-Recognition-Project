@@ -1,0 +1,19 @@
+body
+{
+    background-color: cadetblue;
+}
+
+label
+{
+    background-color: darkgray;
+    font-size: 30px;
+}
+
+#webcam_view
+{
+    border-style: inset;
+    border-width: 5px;
+    border-color: darkblue;
+    width: 300px;
+    height: 300px;
+}
